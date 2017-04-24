@@ -1,0 +1,9 @@
+package com.example.android.yandextranslator.activity.fragment;
+
+
+import roboguice.fragment.RoboFragment;
+
+public class DetailsFragment extends RoboFragment {
+
+
+}

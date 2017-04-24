@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="languages">
+        <item>азербайджанский</item>az
+        <item>мальтийский</item>mt
+        <item>албанский</item>sq
+        <item>македонский</item>mk
+        <item>амхарский</item>am
+        <item>маори</item>	mi
+        <item>английский</item>	en
+        <item>маратхи</item>	mr
+        <item>арабский</item>	ar
+        <item>марийский</item>	mhr
+        <item>армянский</item>	hy
+        <item>монгольский</item>	mn
+        <item>африкаанс</item>	af
+        <item>немецкий</item>	de
+        <item>баскский</item>	eu
+        <item>непальский</item>	ne
+        <item>башкирский</item>	ba
+        <item>норвежский</item>	no
+        <item>белорусский</item>	be
+        <item>панджаби</item>	pa
+        <item>бенгальский</item>	bn
+        <item>папьяменто</item>	pap
+        <item>болгарский</item>	bg
+        <item>персидский</item>	fa
+        <item>боснийский</item>	bs
+        <item>польский</item>pl
+        <item>валлийский</item>	cy
+        <item>португальский</item>	pt
+        <item>венгерский</item>	hu
+        <item>румынский</item>	ro
+        <item>вьетнамский</item>	vi
+        <item>русский</item>	ru
+        <item>гаитянский(креольский)</item>	ht
+        <item>себуанский</item>	ceb
+        <item>галисийский</item>	gl
+        <item>сербский</item>	sr
+        <item>голландский</item>	nl
+        <item>сингальский</item>	si
+        <item>горномарийский</item>	mrj
+        <item>словацкий</item>	sk
+        <item>греческий</item>	el
+        <item>словенский</item>	sl
+        <item>грузинский</item>	ka
+        <item>суахили</item>	sw
+        <item>гуджарати</item>>	gu
+        <item>сунданский</item>	su
+        <item>датский</item>	da
+        <item>таджикский</item>	tg
+        <item>иврит</item>>	he
+        <item>тайский</item>th
+        <item>идиш</item>yi
+        <item>тагальский</item>tl
+        <item>индонезийский</item>	id
+        <item>тамильский</item>	ta
+        <item>ирландский</item>	ga
+        <item>татарский</item>	tt
+        <item>итальянский</item>	it
+        <item>телугу</item>	te
+        <item>исландский</item>	is
+        <item>турецкий</item>	tr
+        <item>испанский</item>	es
+        <item>удмуртский</item>	udm
+        <item>казахский	</item>	kk
+        <item>узбекский</item>	uz
+        <item>каннада</item>	kn
+        <item>украинский</item>	uk
+        <item>каталанский</item>ca
+        <item>урду</item>ur
+        <item>киргизский</item>	ky
+        <item>финский</item>	fi
+        <item>китайский</item>	zh
+        <item>французский</item>fr
+        <item>корейский</item>	ko
+        <item>хинди</item>	hi
+        <item>коса</item> xh
+        <item>хорватский</item>	hr
+        <item>латынь</item>	la
+        <item>чешский</item>cs
+        <item>латышский</item>lv
+        <item>шведский</item>sv
+        <item>литовский</item>lt
+        <item>шотландский</item>	gd
+        <item>люксембургский</item>	lb
+        <item>эстонский</item>	et
+        <item>малагасийский</item>	mg
+        <item>эсперанто</item>eo
+        <item>малайский</item>	ms
+        <item>яванский</item>	jv
+        <item>малаялам</item>	ml
+        <item>японский</item>	ja
+    </array>
+</resources>
